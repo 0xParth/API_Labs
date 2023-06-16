@@ -5,7 +5,8 @@ Kali Linux comes with burpsuite but in case you dont have it installed, feel fre
 Once burpsuite is installed follow the following steps to congifure proxy and start capturing the request.
 
 1. Start Burpsuite
-2. download this extension: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+2. Go to firefox and download this extension: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+
 ![image](https://github.com/0xParth/API_Labs/assets/86850255/8acecaf0-546c-43ca-b107-209c33be384e)
 
 3. Click on foxyproxy, go to option, click on add and enter following details. CLick on save.
