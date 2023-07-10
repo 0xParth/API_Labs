@@ -5,6 +5,7 @@
 # To Capture request in postman
 
 - Click on capture request and then enable proxy.
+
 ![image](https://github.com/0xParth/API_Labs/assets/86850255/90575112-e21e-41f2-97a6-8338d180f4a0)
 
 ![image](https://github.com/0xParth/API_Labs/assets/86850255/f537eac9-f83d-4035-b4ab-b54a484a59f1)
